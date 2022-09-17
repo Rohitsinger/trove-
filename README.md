@@ -1,2 +1,2 @@
 # trove-
-trove repo
+trove repo for git commands demonstration
